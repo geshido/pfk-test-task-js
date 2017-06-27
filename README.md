@@ -4,7 +4,7 @@
 Направление "Frontend"
 ---
 
-Используя данные сайта [openweathermap.org](openweathermap.org) реализовать Single Page Application для просмотра погоды в городах.
+Используя данные сайта [openweathermap.org](http://openweathermap.org) реализовать Single Page Application для просмотра погоды в городах.
 
 Интерфейс приложения должен позволять:
 
