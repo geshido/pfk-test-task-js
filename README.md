@@ -26,7 +26,7 @@ GraphQL прокси
 
 https://github.com/MiroYar/my-apollo-openweathermap-server
 
-    http://127.0.0.1:4000/graphql - точка подключения после запуска сервера
+    http://127.0.0.1:4000 - точка подключения после запуска сервера
 
 
 Для исследования схемы данных можно использовать extension [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij)
