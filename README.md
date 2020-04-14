@@ -24,7 +24,7 @@
 GraphQL прокси
 ---
 
-https://github.com/ronal2do/graphql-weather-api 
+https://github.com/MiroYar/my-apollo-openweathermap-server
 
     http://127.0.0.1:4000/graphql - точка подключения после запуска сервера
 
